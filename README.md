@@ -8,7 +8,7 @@ Practicing some Javascript working on a password generator project.
 
 ## Getting Started
 
-You can view the project end product from this link: 
+You can view the project end product from this link: https://jvmcpheron.github.io/Password_Generator/
 
 ## Authors
 
